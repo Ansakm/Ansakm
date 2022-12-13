@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @Ansakm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ansakm/Ansakm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-您可以点击预览链接查看您的更改。
+# 前端代码片段
